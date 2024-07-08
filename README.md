@@ -1,1 +1,2 @@
 # portfolio
+Hi there! This is the portfolio of Sam Chen陳聖文, scraped together for the application of NTU NEST. Because I am not yet a professional software developer, a lot of the content in the portfolio may seem kind of lame. However, I guarentee you that I am a really fast learner in this field. I did not have any programming experience 6 months prior, but now I already have two major projects finished in python and rushing through the web-development courses on freecodecamp.
